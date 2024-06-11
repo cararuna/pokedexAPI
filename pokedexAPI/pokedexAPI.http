@@ -1,0 +1,6 @@
+@pokedexAPI_HostAddress = http://localhost:5143
+
+GET {{pokedexAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
